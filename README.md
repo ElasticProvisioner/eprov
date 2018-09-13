@@ -23,5 +23,6 @@ next:
 
 Once the module is imported, eprov works the same in different versions of python and ruby.
 
-Shell users type `eprov <strap-using-dashes-instead-of-underscores> [<args>]` from the command line.
+# Unix Shell Users
+`eprov <strap-using-dashes-instead-of-underscores> [<args>]` from the command line.
 
